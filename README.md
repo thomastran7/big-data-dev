@@ -10,5 +10,5 @@ I am from Kansas City, Missouri. I transferred from Maple Woods Community Colleg
 In the future, I hope to go into the Military full time and work as a technician.
 
 ## Links:
-Github - https://github.com/thomastran7
+Github - https://github.com/thomastran7 <br />
 Linkedin - linkedin.com/in/thomas-tran-443b36191
