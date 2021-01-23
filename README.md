@@ -9,6 +9,10 @@ I am from Kansas City, Missouri. I transferred from Maple Woods Community Colleg
 ## Plans:
 In the future, I hope to go into the Military full time and work as a technician.
 
+## Skills
+- Bash
+- Powershell
+
 ## Links:
 [Github](https://github.com/thomastran7) <br />
 <br />
